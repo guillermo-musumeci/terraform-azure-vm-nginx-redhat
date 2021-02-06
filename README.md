@@ -1,6 +1,6 @@
 # Deploying an Azure RedhHat or CentOS Linux VM with Nginx using Terraform
 
-Blog --> 
+Blog --> https://gmusumeci.medium.com/how-to-deploy-a-redhat-or-centos-linux-vm-with-nginx-in-azure-using-terraform-8366ba6dd5d5
 
 Update the **source_image_reference** on this section of the **linux-vm-main.tf** file, to configure the distro and version of Linux.
 
